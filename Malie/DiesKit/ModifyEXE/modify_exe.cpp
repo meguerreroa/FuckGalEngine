@@ -12,6 +12,7 @@ using std::ofstream;
 using std::ifstream;
 
 
+
 unsigned int get_filesize(const char *filename)
 {
 	struct stat f_stat;
